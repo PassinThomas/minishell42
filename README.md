@@ -86,11 +86,4 @@ Le shell redirige les entrées/sorties via les descripteurs de fichier. Pour les
 
 ---
 
-## 🛠️ Fonctionnalités en Cours
-- Amélioration de la gestion des guillemets imbriqués (`'` et `"`).
-- Support avancé des redirections multiples et des erreurs associées.
-- Optimisation des performances du shell.
-
----
-
 _Fait par PassinThomas pour l'école 42._
